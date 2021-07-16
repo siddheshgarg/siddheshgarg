@@ -1,4 +1,4 @@
-## Hello! I’m **Sid**, an upcoming coder :dizzy:
+## Hello! I’m **Siddhesh**, an upcoming coder :dizzy:
 
 ### I’m currently learning Python :snake:
 - :man_student::man_student: I'm looking to collaborate with other Python coders 
