@@ -1,9 +1,9 @@
 ## Hello! I’m **Sid**, an upcoming coder :dizzy:
 
 ### I’m currently learning Python :snake:
-- I'm looking to collaborate with other Pyhton coders 
+- I'm looking to collaborate with other Python coders 
 - 2021 Goals: Learn programming and machine learning
-- Fun fact: I am a Creative Marketer 
+- Fun fact: I am a Creative Marketer ✨
 
 ### Connect with me on [LinkedIn!](linkedin.com/in/siddheshgarg)
 
