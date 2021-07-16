@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sid here. 
+- 👋 Hello! I’m **Sid** here. 
 - 👀 I’m interested in coding, marketing, slow living, and spreading kindness
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python :D
