@@ -2,7 +2,7 @@
 
 ### I’m currently learning Python :snake:
 - I'm looking to collaborate with other Python coders 
-- 2021 Goals: Learn programming and machine learning
+- 2021 Goals :goal_net:: Learn programming and machine learning
 - Fun fact: I am a Creative Marketer ✨
 
 ### Connect with me on [LinkedIn!](linkedin.com/in/siddheshgarg)
